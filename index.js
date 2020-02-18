@@ -1,9 +1,8 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs');
-const config = require("./config.json")
 
-client.login(config.BOT_TOKEN);
+client.login(NjcxNzQ3MzUzNjYwODgyOTQ0.XkppUQ.zhpX1LAI-hTKpkCSBMjE66TWZW4);
 
 client.commands = new Discord.Collection();
 
